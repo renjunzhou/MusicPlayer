@@ -1,0 +1,8 @@
+<!--黄钟毁弃瓦釜雷鸣-->
+<resources>
+    <string name="app_name">钟釜</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="quit">QUIT</string>
+    quit
+</resources>
