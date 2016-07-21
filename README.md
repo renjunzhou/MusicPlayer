@@ -1,5 +1,7 @@
 # MusicPlayer
-a simple Android MusicPlayer
+a simple Android MusicPlayer 
+IDE:ANDROID STUDIO
+SDK:
 
 ![image](https://github.com/DackRen/MusicPlayer/raw/master/default.jpeg)
 ![image](https://github.com/DackRen/MusicPlayer/raw/master/player.png)
